@@ -1,5 +1,7 @@
 # SC - PTZ Control 🏗️
 
+> App feito com electron e Next para controlar camera ptz usando a api do DVR/NVR para ajudar minha congregação de lingua de sinais durante as reuniões.
+
 ---
 
 <div align="center">
